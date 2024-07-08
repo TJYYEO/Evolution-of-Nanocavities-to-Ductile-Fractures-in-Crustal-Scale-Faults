@@ -1,0 +1,117 @@
+[General]
+Version=5.0
+Date=2023/03/10
+Time=9:46:16
+Duration=13:58:39
+PerCycle=0.025
+Description=221122-03
+Author=AZtec
+Notes=Stitch of 3 projects
+JobMode=RegularGrid
+SampleSymmetry=1
+Modified=True
+[Job]
+Coverage=54.1
+Magnification=250
+kV=15.00
+TiltAngle=0.00
+TiltAxis=90.00
+Device=Beam
+GridDistX=0.5000
+GridDistY=0.5000
+xCells=916
+yCells=2193
+[Acquisition Surface]
+Euler1=0.0
+Euler2=0.0
+Euler3=0.0
+[Fields]
+Count=19
+Field1=3
+Field2=4
+Field3=5
+Field4=6
+Field5=7
+Field6=8
+Field7=10
+Field8=11
+Field9=12
+Field10=101
+Field11=102
+Field12=103
+Field13=104
+Field14=105
+Field15=106
+Field16=107
+Field17=108
+Field18=109
+Field19=110
+[Phases]
+Count=3
+[Phase1]
+StructureName=Quartz-new
+Reference=Sands, 1969
+Enabled=True
+a=4.9130
+b=4.9130
+c=5.5040
+alpha=90.00
+beta=90.00
+gamma=120.00
+LaueGroup=7
+SpaceGroup=152
+ID1=
+ID2=
+[Maximum indices]
+Phase1=444
+Phase2=
+Phase3=
+[Phase2]
+StructureName=Low albite
+Reference=[ALBNEW2.CRY]
+Enabled=True
+a=8.1420
+b=12.7850
+c=7.1590
+alpha=94.19
+beta=116.61
+gamma=87.68
+LaueGroup=1
+ID1=
+ID2=
+[Phase3]
+StructureName=Orthoclase
+Reference=[Orthocls.cry]
+Enabled=True
+a=8.5600
+b=13.0000
+c=7.1700
+alpha=90.00
+beta=116.00
+gamma=90.00
+LaueGroup=2
+ID1=
+ID2=
+[SEMFields]
+DOEuler1=359.030043583026
+DOEuler2=91.0283845979484
+DOEuler3=358.018498512503
+[StagePosition]
+XPos=65.9319
+YPos=24.014
+ZPos=44
+RPos=0
+TPos=0
+ZValid=True
+[EDX Windows]
+Count=10
+Window1=Silicon Ka1
+Window2=Oxygen Ka1
+Window3=Calcium Ka1
+Window4=Carbon Ka1_2
+Window5=Aluminum Ka1
+Window6=Sodium Ka1_2
+Window7=Potassium Ka1
+Window8=Iron Ka1
+Window9=Titanium Ka1
+Window10=Magnesium Ka1_2
